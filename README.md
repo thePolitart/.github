@@ -1,7 +1,7 @@
 # 🏛️ POLITART | The Architecture of Resistance
 
 <p align="center">
-  <img src="https://i.ibb.co/1t95HZpM/3-only-logo.png" width="120" alt="POLITART Logo">
+  <img src="https://i.ibb.co/20F16g85/3-only-logo.png" width="120" alt="POLITART Logo">
   <br>
   <b>An autonomous aesthetic protocol designed to challenge centralized narrative control.</b>
   <br>
